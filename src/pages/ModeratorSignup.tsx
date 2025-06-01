@@ -145,7 +145,7 @@ const ModeratorSignup = () => {
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
-      <Header title="WhisperChain+" />
+      <Header title="CryptNote" />
 
       <div className="flex flex-col items-center justify-center flex-grow p-4">
         <div className="flex flex-col items-center justify-center mb-8">
@@ -159,7 +159,7 @@ const ModeratorSignup = () => {
             </svg>
           </div>
           <h1 className="text-3xl font-bold mb-2">Moderator Registration</h1>
-          <p className="text-gray-600">Create your moderator account for WhisperChain+</p>
+          <p className="text-gray-600">Create your moderator account for CryptNote</p>
         </div>
 
         <div className="w-full max-w-md bg-white rounded-lg shadow-sm p-6">

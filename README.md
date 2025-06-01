@@ -1,6 +1,6 @@
-# WhisperChain+ Secure Messaging Platform
+# CryptNote Secure Messaging Platform
 
-WhisperChain+ is an end-to-end encrypted messaging platform focused on privacy and security. This application allows users to send encrypted messages to other users, with features designed for secure communication and content moderation.
+CryptNote is an end-to-end encrypted messaging platform focused on privacy and security. This application allows users to send encrypted messages to other users, with features designed for secure communication and content moderation.
 
 ## Features
 
@@ -96,7 +96,7 @@ whisperchain-plus/
 
 ## Security Considerations
 
-WhisperChain+ implements several security best practices:
+CryptNote implements several security best practices:
 
 - All messages are encrypted before being sent to the server
 - User authentication leverages Supabase's secure auth system

@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useAuth } from '@/context/AuthContext';
@@ -99,7 +98,7 @@ const Messages = () => {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
       <Header 
-        title="WhisperChain+" 
+        title="CryptNote" 
         userIdentifier={user?.username ? `@whisper_${user.id.slice(-4)}` : undefined} 
       />
 

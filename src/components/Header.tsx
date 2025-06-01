@@ -15,7 +15,7 @@ const Header = ({ title, userIdentifier }: HeaderProps) => {
       <div className="flex items-center">
         <Link to="/" className="flex items-center">
           {/* Logo */}
-          <img src={logo} alt="WhisperChain+ Logo" className="h-8 w-8 mr-3" />
+          <img src={logo} alt="CryptNote Logo" className="h-8 w-8 mr-3" />
           
           <span className="text-xl font-bold">{title}</span>
         </Link>

@@ -73,7 +73,7 @@ const Login = () => {
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
-      <Header title="WhisperChain+" />
+      <Header title="CryptNote" />
 
       <div className="flex flex-col items-center justify-center flex-grow p-4">
         <div className="flex flex-col items-center justify-center mb-8">

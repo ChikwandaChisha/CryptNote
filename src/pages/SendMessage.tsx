@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '@/components/Header';
@@ -128,7 +127,7 @@ const SendMessage = () => {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
       <Header 
-        title="WhisperChain+" 
+        title="CryptNote" 
         userIdentifier={user?.username ? `Token Available` : undefined}
       />
       
